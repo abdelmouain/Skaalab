@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skaalab-Exercise2", "Skaalab-Exercise2\Skaalab-Exercise2.csproj", "{B21F2CAA-C3F5-4A96-8BB7-C49827E62DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skalaab-Exercise3", "Skalaab-Exercise3\Skalaab-Exercise3.csproj", "{E904ED69-0526-46EE-A3CF-4799FC156342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skalaab-Exercise4", "Skalaab-Exercise4\Skalaab-Exercise4.csproj", "{02D5345D-C388-4DA2-9AB6-BB09B2480D75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F27ED699-2545-4A3D-B756-63F2340593DF}"
+	ProjectSection(SolutionItems) = preProject
+		Skalaab-Exercise1.sql = Skalaab-Exercise1.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21F2CAA-C3F5-4A96-8BB7-C49827E62DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21F2CAA-C3F5-4A96-8BB7-C49827E62DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21F2CAA-C3F5-4A96-8BB7-C49827E62DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21F2CAA-C3F5-4A96-8BB7-C49827E62DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E904ED69-0526-46EE-A3CF-4799FC156342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E904ED69-0526-46EE-A3CF-4799FC156342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E904ED69-0526-46EE-A3CF-4799FC156342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E904ED69-0526-46EE-A3CF-4799FC156342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D5345D-C388-4DA2-9AB6-BB09B2480D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D5345D-C388-4DA2-9AB6-BB09B2480D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D5345D-C388-4DA2-9AB6-BB09B2480D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D5345D-C388-4DA2-9AB6-BB09B2480D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D1DCE9C-1CDE-4F6D-9F09-C66AC9387814}
+	EndGlobalSection
+EndGlobal
